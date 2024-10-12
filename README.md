@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hola soy Rodolfo👋 
+¡Bienvenido a mi perfil de GitHub! Soy un estudiante de secundaria apasionado por la tecnología, la programación y la resolución de problemas creativos. 💻🚀
 
 <!--
 **Senty712/Senty712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
